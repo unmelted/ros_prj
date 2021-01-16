@@ -1,0 +1,15 @@
+source;share/rqt_action/hook/cmake_prefix_path.ps1
+source;share/rqt_action/hook/cmake_prefix_path.dsv
+source;share/rqt_action/hook/cmake_prefix_path.sh
+source;share/rqt_action/hook/dyld_library_path.ps1
+source;share/rqt_action/hook/dyld_library_path.dsv
+source;share/rqt_action/hook/dyld_library_path.sh
+source;share/rqt_action/hook/path.ps1
+source;share/rqt_action/hook/path.dsv
+source;share/rqt_action/hook/path.sh
+source;share/rqt_action/hook/pythonpath.ps1
+source;share/rqt_action/hook/pythonpath.dsv
+source;share/rqt_action/hook/pythonpath.sh
+source;share/rqt_action/hook/ament_prefix_path.ps1
+source;share/rqt_action/hook/ament_prefix_path.dsv
+source;share/rqt_action/hook/ament_prefix_path.sh

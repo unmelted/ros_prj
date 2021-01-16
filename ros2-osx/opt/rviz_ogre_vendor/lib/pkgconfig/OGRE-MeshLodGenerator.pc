@@ -1,0 +1,11 @@
+prefix=/Users/osrf/jenkins-agent/workspace/ci_packaging_osx/ws/build/rviz_ogre_vendor/ogre_install
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: OGRE-MeshLodGenerator
+Description: Mesh Lod Generator for OGRE
+Version: 1.12.1
+Requires: OGRE = 1.12.1
+Libs: -L${libdir} -lOgreMeshLodGenerator
+Cflags: -I${includedir}/OGRE/MeshLodGenerator 

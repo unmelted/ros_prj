@@ -1,0 +1,15 @@
+source;share/topic_monitor/hook/cmake_prefix_path.ps1
+source;share/topic_monitor/hook/cmake_prefix_path.dsv
+source;share/topic_monitor/hook/cmake_prefix_path.sh
+source;share/topic_monitor/hook/dyld_library_path.ps1
+source;share/topic_monitor/hook/dyld_library_path.dsv
+source;share/topic_monitor/hook/dyld_library_path.sh
+source;share/topic_monitor/hook/path.ps1
+source;share/topic_monitor/hook/path.dsv
+source;share/topic_monitor/hook/path.sh
+source;share/topic_monitor/hook/pythonpath.ps1
+source;share/topic_monitor/hook/pythonpath.dsv
+source;share/topic_monitor/hook/pythonpath.sh
+source;share/topic_monitor/hook/ament_prefix_path.ps1
+source;share/topic_monitor/hook/ament_prefix_path.dsv
+source;share/topic_monitor/hook/ament_prefix_path.sh

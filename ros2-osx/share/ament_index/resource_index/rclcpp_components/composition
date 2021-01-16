@@ -1,0 +1,5 @@
+composition::Talker;lib/libtalker_component.dylib
+composition::Listener;lib/liblistener_component.dylib
+composition::NodeLikeListener;lib/libnode_like_listener_component.dylib
+composition::Server;lib/libserver_component.dylib
+composition::Client;lib/libclient_component.dylib

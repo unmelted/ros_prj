@@ -1,0 +1,15 @@
+source;share/rqt_reconfigure/hook/cmake_prefix_path.ps1
+source;share/rqt_reconfigure/hook/cmake_prefix_path.dsv
+source;share/rqt_reconfigure/hook/cmake_prefix_path.sh
+source;share/rqt_reconfigure/hook/dyld_library_path.ps1
+source;share/rqt_reconfigure/hook/dyld_library_path.dsv
+source;share/rqt_reconfigure/hook/dyld_library_path.sh
+source;share/rqt_reconfigure/hook/path.ps1
+source;share/rqt_reconfigure/hook/path.dsv
+source;share/rqt_reconfigure/hook/path.sh
+source;share/rqt_reconfigure/hook/pythonpath.ps1
+source;share/rqt_reconfigure/hook/pythonpath.dsv
+source;share/rqt_reconfigure/hook/pythonpath.sh
+source;share/rqt_reconfigure/hook/ament_prefix_path.ps1
+source;share/rqt_reconfigure/hook/ament_prefix_path.dsv
+source;share/rqt_reconfigure/hook/ament_prefix_path.sh

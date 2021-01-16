@@ -1,0 +1,17 @@
+source;share/interactive_markers/hook/cmake_prefix_path.ps1
+source;share/interactive_markers/hook/cmake_prefix_path.dsv
+source;share/interactive_markers/hook/cmake_prefix_path.sh
+source;share/interactive_markers/hook/dyld_library_path.ps1
+source;share/interactive_markers/hook/dyld_library_path.dsv
+source;share/interactive_markers/hook/dyld_library_path.sh
+source;share/interactive_markers/hook/path.ps1
+source;share/interactive_markers/hook/path.dsv
+source;share/interactive_markers/hook/path.sh
+source;share/interactive_markers/hook/pythonpath.ps1
+source;share/interactive_markers/hook/pythonpath.dsv
+source;share/interactive_markers/hook/pythonpath.sh
+source;share/interactive_markers/local_setup.bash
+source;share/interactive_markers/local_setup.dsv
+source;share/interactive_markers/local_setup.ps1
+source;share/interactive_markers/local_setup.sh
+source;share/interactive_markers/local_setup.zsh

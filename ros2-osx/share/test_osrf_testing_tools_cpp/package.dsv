@@ -1,0 +1,12 @@
+source;share/test_osrf_testing_tools_cpp/hook/cmake_prefix_path.ps1
+source;share/test_osrf_testing_tools_cpp/hook/cmake_prefix_path.dsv
+source;share/test_osrf_testing_tools_cpp/hook/cmake_prefix_path.sh
+source;share/test_osrf_testing_tools_cpp/hook/dyld_library_path.ps1
+source;share/test_osrf_testing_tools_cpp/hook/dyld_library_path.dsv
+source;share/test_osrf_testing_tools_cpp/hook/dyld_library_path.sh
+source;share/test_osrf_testing_tools_cpp/hook/path.ps1
+source;share/test_osrf_testing_tools_cpp/hook/path.dsv
+source;share/test_osrf_testing_tools_cpp/hook/path.sh
+source;share/test_osrf_testing_tools_cpp/hook/pythonpath.ps1
+source;share/test_osrf_testing_tools_cpp/hook/pythonpath.dsv
+source;share/test_osrf_testing_tools_cpp/hook/pythonpath.sh

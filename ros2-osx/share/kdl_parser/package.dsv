@@ -1,0 +1,17 @@
+source;share/kdl_parser/hook/cmake_prefix_path.ps1
+source;share/kdl_parser/hook/cmake_prefix_path.dsv
+source;share/kdl_parser/hook/cmake_prefix_path.sh
+source;share/kdl_parser/hook/dyld_library_path.ps1
+source;share/kdl_parser/hook/dyld_library_path.dsv
+source;share/kdl_parser/hook/dyld_library_path.sh
+source;share/kdl_parser/hook/path.ps1
+source;share/kdl_parser/hook/path.dsv
+source;share/kdl_parser/hook/path.sh
+source;share/kdl_parser/hook/pythonpath.ps1
+source;share/kdl_parser/hook/pythonpath.dsv
+source;share/kdl_parser/hook/pythonpath.sh
+source;share/kdl_parser/local_setup.bash
+source;share/kdl_parser/local_setup.dsv
+source;share/kdl_parser/local_setup.ps1
+source;share/kdl_parser/local_setup.sh
+source;share/kdl_parser/local_setup.zsh

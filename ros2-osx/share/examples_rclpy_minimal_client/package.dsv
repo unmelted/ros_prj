@@ -1,0 +1,15 @@
+source;share/examples_rclpy_minimal_client/hook/cmake_prefix_path.ps1
+source;share/examples_rclpy_minimal_client/hook/cmake_prefix_path.dsv
+source;share/examples_rclpy_minimal_client/hook/cmake_prefix_path.sh
+source;share/examples_rclpy_minimal_client/hook/dyld_library_path.ps1
+source;share/examples_rclpy_minimal_client/hook/dyld_library_path.dsv
+source;share/examples_rclpy_minimal_client/hook/dyld_library_path.sh
+source;share/examples_rclpy_minimal_client/hook/path.ps1
+source;share/examples_rclpy_minimal_client/hook/path.dsv
+source;share/examples_rclpy_minimal_client/hook/path.sh
+source;share/examples_rclpy_minimal_client/hook/pythonpath.ps1
+source;share/examples_rclpy_minimal_client/hook/pythonpath.dsv
+source;share/examples_rclpy_minimal_client/hook/pythonpath.sh
+source;share/examples_rclpy_minimal_client/hook/ament_prefix_path.ps1
+source;share/examples_rclpy_minimal_client/hook/ament_prefix_path.dsv
+source;share/examples_rclpy_minimal_client/hook/ament_prefix_path.sh

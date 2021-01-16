@@ -1,0 +1,17 @@
+source;share/examples_rclcpp_minimal_timer/hook/cmake_prefix_path.ps1
+source;share/examples_rclcpp_minimal_timer/hook/cmake_prefix_path.dsv
+source;share/examples_rclcpp_minimal_timer/hook/cmake_prefix_path.sh
+source;share/examples_rclcpp_minimal_timer/hook/dyld_library_path.ps1
+source;share/examples_rclcpp_minimal_timer/hook/dyld_library_path.dsv
+source;share/examples_rclcpp_minimal_timer/hook/dyld_library_path.sh
+source;share/examples_rclcpp_minimal_timer/hook/path.ps1
+source;share/examples_rclcpp_minimal_timer/hook/path.dsv
+source;share/examples_rclcpp_minimal_timer/hook/path.sh
+source;share/examples_rclcpp_minimal_timer/hook/pythonpath.ps1
+source;share/examples_rclcpp_minimal_timer/hook/pythonpath.dsv
+source;share/examples_rclcpp_minimal_timer/hook/pythonpath.sh
+source;share/examples_rclcpp_minimal_timer/local_setup.bash
+source;share/examples_rclcpp_minimal_timer/local_setup.dsv
+source;share/examples_rclcpp_minimal_timer/local_setup.ps1
+source;share/examples_rclcpp_minimal_timer/local_setup.sh
+source;share/examples_rclcpp_minimal_timer/local_setup.zsh

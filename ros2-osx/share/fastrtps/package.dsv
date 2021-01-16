@@ -1,0 +1,12 @@
+source;share/fastrtps/hook/cmake_prefix_path.ps1
+source;share/fastrtps/hook/cmake_prefix_path.dsv
+source;share/fastrtps/hook/cmake_prefix_path.sh
+source;share/fastrtps/hook/dyld_library_path.ps1
+source;share/fastrtps/hook/dyld_library_path.dsv
+source;share/fastrtps/hook/dyld_library_path.sh
+source;share/fastrtps/hook/path.ps1
+source;share/fastrtps/hook/path.dsv
+source;share/fastrtps/hook/path.sh
+source;share/fastrtps/hook/pythonpath.ps1
+source;share/fastrtps/hook/pythonpath.dsv
+source;share/fastrtps/hook/pythonpath.sh

@@ -1,0 +1,17 @@
+source;share/examples_rclcpp_multithreaded_executor/hook/cmake_prefix_path.ps1
+source;share/examples_rclcpp_multithreaded_executor/hook/cmake_prefix_path.dsv
+source;share/examples_rclcpp_multithreaded_executor/hook/cmake_prefix_path.sh
+source;share/examples_rclcpp_multithreaded_executor/hook/dyld_library_path.ps1
+source;share/examples_rclcpp_multithreaded_executor/hook/dyld_library_path.dsv
+source;share/examples_rclcpp_multithreaded_executor/hook/dyld_library_path.sh
+source;share/examples_rclcpp_multithreaded_executor/hook/path.ps1
+source;share/examples_rclcpp_multithreaded_executor/hook/path.dsv
+source;share/examples_rclcpp_multithreaded_executor/hook/path.sh
+source;share/examples_rclcpp_multithreaded_executor/hook/pythonpath.ps1
+source;share/examples_rclcpp_multithreaded_executor/hook/pythonpath.dsv
+source;share/examples_rclcpp_multithreaded_executor/hook/pythonpath.sh
+source;share/examples_rclcpp_multithreaded_executor/local_setup.bash
+source;share/examples_rclcpp_multithreaded_executor/local_setup.dsv
+source;share/examples_rclcpp_multithreaded_executor/local_setup.ps1
+source;share/examples_rclcpp_multithreaded_executor/local_setup.sh
+source;share/examples_rclcpp_multithreaded_executor/local_setup.zsh

@@ -1,0 +1,15 @@
+source;share/ros2test/hook/cmake_prefix_path.ps1
+source;share/ros2test/hook/cmake_prefix_path.dsv
+source;share/ros2test/hook/cmake_prefix_path.sh
+source;share/ros2test/hook/dyld_library_path.ps1
+source;share/ros2test/hook/dyld_library_path.dsv
+source;share/ros2test/hook/dyld_library_path.sh
+source;share/ros2test/hook/path.ps1
+source;share/ros2test/hook/path.dsv
+source;share/ros2test/hook/path.sh
+source;share/ros2test/hook/pythonpath.ps1
+source;share/ros2test/hook/pythonpath.dsv
+source;share/ros2test/hook/pythonpath.sh
+source;share/ros2test/hook/ament_prefix_path.ps1
+source;share/ros2test/hook/ament_prefix_path.dsv
+source;share/ros2test/hook/ament_prefix_path.sh

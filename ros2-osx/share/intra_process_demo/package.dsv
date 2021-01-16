@@ -1,0 +1,17 @@
+source;share/intra_process_demo/hook/cmake_prefix_path.ps1
+source;share/intra_process_demo/hook/cmake_prefix_path.dsv
+source;share/intra_process_demo/hook/cmake_prefix_path.sh
+source;share/intra_process_demo/hook/dyld_library_path.ps1
+source;share/intra_process_demo/hook/dyld_library_path.dsv
+source;share/intra_process_demo/hook/dyld_library_path.sh
+source;share/intra_process_demo/hook/path.ps1
+source;share/intra_process_demo/hook/path.dsv
+source;share/intra_process_demo/hook/path.sh
+source;share/intra_process_demo/hook/pythonpath.ps1
+source;share/intra_process_demo/hook/pythonpath.dsv
+source;share/intra_process_demo/hook/pythonpath.sh
+source;share/intra_process_demo/local_setup.bash
+source;share/intra_process_demo/local_setup.dsv
+source;share/intra_process_demo/local_setup.ps1
+source;share/intra_process_demo/local_setup.sh
+source;share/intra_process_demo/local_setup.zsh

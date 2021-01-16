@@ -1,0 +1,17 @@
+source;share/tf2_tools/hook/cmake_prefix_path.ps1
+source;share/tf2_tools/hook/cmake_prefix_path.dsv
+source;share/tf2_tools/hook/cmake_prefix_path.sh
+source;share/tf2_tools/hook/dyld_library_path.ps1
+source;share/tf2_tools/hook/dyld_library_path.dsv
+source;share/tf2_tools/hook/dyld_library_path.sh
+source;share/tf2_tools/hook/path.ps1
+source;share/tf2_tools/hook/path.dsv
+source;share/tf2_tools/hook/path.sh
+source;share/tf2_tools/hook/pythonpath.ps1
+source;share/tf2_tools/hook/pythonpath.dsv
+source;share/tf2_tools/hook/pythonpath.sh
+source;share/tf2_tools/local_setup.bash
+source;share/tf2_tools/local_setup.dsv
+source;share/tf2_tools/local_setup.ps1
+source;share/tf2_tools/local_setup.sh
+source;share/tf2_tools/local_setup.zsh

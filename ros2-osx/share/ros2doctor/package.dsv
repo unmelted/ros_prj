@@ -1,0 +1,15 @@
+source;share/ros2doctor/hook/cmake_prefix_path.ps1
+source;share/ros2doctor/hook/cmake_prefix_path.dsv
+source;share/ros2doctor/hook/cmake_prefix_path.sh
+source;share/ros2doctor/hook/dyld_library_path.ps1
+source;share/ros2doctor/hook/dyld_library_path.dsv
+source;share/ros2doctor/hook/dyld_library_path.sh
+source;share/ros2doctor/hook/path.ps1
+source;share/ros2doctor/hook/path.dsv
+source;share/ros2doctor/hook/path.sh
+source;share/ros2doctor/hook/pythonpath.ps1
+source;share/ros2doctor/hook/pythonpath.dsv
+source;share/ros2doctor/hook/pythonpath.sh
+source;share/ros2doctor/hook/ament_prefix_path.ps1
+source;share/ros2doctor/hook/ament_prefix_path.dsv
+source;share/ros2doctor/hook/ament_prefix_path.sh

@@ -1,0 +1,12 @@
+source;share/urdfdom_headers/hook/cmake_prefix_path.ps1
+source;share/urdfdom_headers/hook/cmake_prefix_path.dsv
+source;share/urdfdom_headers/hook/cmake_prefix_path.sh
+source;share/urdfdom_headers/hook/path.ps1
+source;share/urdfdom_headers/hook/path.dsv
+source;share/urdfdom_headers/hook/path.sh
+source;share/urdfdom_headers/hook/pkg_config.ps1
+source;share/urdfdom_headers/hook/pkg_config.dsv
+source;share/urdfdom_headers/hook/pkg_config.sh
+source;share/urdfdom_headers/hook/pythonpath.ps1
+source;share/urdfdom_headers/hook/pythonpath.dsv
+source;share/urdfdom_headers/hook/pythonpath.sh
